@@ -1,5 +1,5 @@
 # Blog-Comments
-https://stevehawk.tk Comment system powered by utterances. https://utteranc.es/
+https://sttev.com Comment system powered by utterances. https://utteranc.es/
 
 This is the comments' storage repo.
 
