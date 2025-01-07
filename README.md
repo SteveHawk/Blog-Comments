@@ -1,6 +1,5 @@
 # Blog-Comments
-https://sttev.com Comment system powered by utterances. https://utteranc.es/
+
+[sttev.com](https://sttev.com) Blog comment system powered by [giscus](https://giscus.app).
 
 This is the comments' storage repo.
-
-Check their repo: https://github.com/utterance
